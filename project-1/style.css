@@ -1,0 +1,18 @@
+.countaner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.counter{
+    text-align: center;
+
+}
+.counter h1{
+    front-size: 70px;
+}
+.counter h2{
+    front-size: 120px;
+    text-shadow: 10px 10px 10px green(255, 0, 0);
+
+}
